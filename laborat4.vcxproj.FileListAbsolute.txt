@@ -1,0 +1,3 @@
+D:\2M інформатика\Лабораторні\laborat4\laborat4\x64\Debug\laborat4.vcxproj.AssemblyReference.cache
+D:\2M інформатика\Лабораторні\laborat4\laborat4\x64\Debug\laborat4.MyForm.resources
+D:\2M інформатика\Лабораторні\laborat4\laborat4\x64\Debug\laborat4.vcxproj.GenerateResource.cache
